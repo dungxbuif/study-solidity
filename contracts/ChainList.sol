@@ -1,6 +1,6 @@
 pragma solidity ^0.5.16;
 
-import "./Ownable";
+import "./Ownable.sol";
 
 contract ChainList is Ownable {
     // custom types
